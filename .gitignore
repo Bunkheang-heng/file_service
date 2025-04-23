@@ -9,9 +9,6 @@ yarn-error.log
 .env.local
 .env.*.local
 
-# Uploaded files
-uploads/
-public/images/
 
 # IDE
 .vscode/
